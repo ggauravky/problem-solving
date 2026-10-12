@@ -15,8 +15,8 @@ A structured archive of CodeChef competitive programming and practice solutions,
 <!-- START_CODECHEF_PROGRESS -->
 | Metric | Count |
 | :--- | :---: |
-| 🎯 **Total CodeChef Problems Documented** | **4** |
-| 📊 **0000–0999 Range Solutions** | **4** |
+| 🎯 **Total CodeChef Problems Documented** | **5** |
+| 📊 **0000–0999 Range Solutions** | **5** |
 | 🏁 **Contest Solutions** | **0** (Planned) |
 <!-- END_CODECHEF_PROGRESS -->
 
@@ -29,7 +29,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 <!-- START_CODECHEF_OVERVIEW -->
 | Difficulty Range | Problems | Status | Solutions |
 | :--- | :---: | :---: | :--- |
-| **0000–0999** | 4 | Populated | [Browse](0000-0999/) |
+| **0000–0999** | 5 | Populated | [Browse](0000-0999/) |
 | **1000–1399** | 0 | Planned | — |
 | **1400–1599** | 0 | Planned | — |
 | **1600+ (Higher Ranges)** | 0 | Planned | — |
@@ -46,6 +46,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 | 2 | Find maximum in an Array | — | 0000–0999 | — | [Solution](<0000-0999/002 Find maximum in an Array.py>) |
 | 3 | LARGESECOND | — | 0000–0999 | — | [Solution](<0000-0999/003 LARGESECOND.py>) |
 | 4 | OPMIN | — | 0000–0999 | — | [Solution](<0000-0999/004 OPMIN.py>) |
+| 5 | DOLL | — | 0000–0999 | — | [Solution](<0000-0999/005 DOLL.py>) |
 <!-- END_CODECHEF_TABLE -->
 
 ---
