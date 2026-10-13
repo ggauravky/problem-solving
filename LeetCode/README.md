@@ -16,10 +16,10 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | Category | Unique Problems | Solution Files | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | 120 | 121 | Active |
-| 🟡 Medium | 29 | 29 | Active |
+| 🟡 Medium | 30 | 30 | Active |
 | 🔴 Hard | 0 | 0 | In Progress ([Details](HARD/000why.md)) |
 | 🏁 Weekly Contest | 4 | 4 | Active |
-| **Total** | **153** | **154** | — |
+| **Total** | **154** | **155** | — |
 
 > **Note on Solved Totals:** Unique problems reflect distinct LeetCode challenges solved. Problem #128 (*Longest Consecutive Sequence*) is officially classified as Medium; an alternative solution is preserved in `EASY/`, resulting in 153 solution files across 152 distinct problems.
 <!-- END_LEETCODE_PROGRESS -->
@@ -160,7 +160,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 
 </details>
 
-### 🟡 Medium Problems (29)
+### 🟡 Medium Problems (30)
 
 <details open>
 <summary><b>Click to expand / collapse Medium Problems table</b></summary>
@@ -191,6 +191,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | 184 | Department Highest Salary | 🟡 Medium | [Link](https://leetcode.com/problems/department-highest-salary/) | [Solution](<MEDIUM/0184 Department Highest Salary.py>) |
 | 189 | Rotate Array | 🟡 Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Solution](<MEDIUM/0189 Rotate Array.py>) |
 | 237 | Delete Node in a Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution](<MEDIUM/0237 Delete Node in a Linked List.py>) |
+| 238 | Product of Array Except Self | 🟡 Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](<MEDIUM/0238 Product of Array Except Self.py>) |
 | 287 | Find the Duplicate Number | 🟡 Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](<MEDIUM/287. Find the Duplicate Number.py>) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](<MEDIUM/0451 Sort Characters By Frequency.py>) |
 | 503 | Next Greater Element II | 🟡 Medium | [Link](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](<MEDIUM/0503 Next Greater Element II.py>) |
