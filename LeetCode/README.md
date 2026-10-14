@@ -16,10 +16,10 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | Category | Unique Problems | Solution Files | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | 120 | 121 | Active |
-| 🟡 Medium | 30 | 30 | Active |
+| 🟡 Medium | 31 | 31 | Active |
 | 🔴 Hard | 0 | 0 | In Progress ([Details](HARD/000why.md)) |
 | 🏁 Weekly Contest | 4 | 4 | Active |
-| **Total** | **154** | **155** | — |
+| **Total** | **155** | **156** | — |
 
 > **Note on Solved Totals:** Unique problems reflect distinct LeetCode challenges solved. Problem #128 (*Longest Consecutive Sequence*) is officially classified as Medium; an alternative solution is preserved in `EASY/`, resulting in 153 solution files across 152 distinct problems.
 <!-- END_LEETCODE_PROGRESS -->
@@ -160,7 +160,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 
 </details>
 
-### 🟡 Medium Problems (30)
+### 🟡 Medium Problems (31)
 
 <details open>
 <summary><b>Click to expand / collapse Medium Problems table</b></summary>
@@ -195,6 +195,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | 287 | Find the Duplicate Number | 🟡 Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](<MEDIUM/287. Find the Duplicate Number.py>) |
 | 451 | Sort Characters By Frequency | 🟡 Medium | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](<MEDIUM/0451 Sort Characters By Frequency.py>) |
 | 503 | Next Greater Element II | 🟡 Medium | [Link](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](<MEDIUM/0503 Next Greater Element II.py>) |
+| 852 | Peak Index in a Mountain Array | 🟡 Medium | [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](<MEDIUM/0852 Peak Index in a Mountain Array.py>) |
 | 1781 | Sum of Beauty of All Substrings | 🟡 Medium | [Link](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Solution](<MEDIUM/1781 Sum of Beauty of All Substrings.py>) |
 | 1907 | Count Salary Categories | 🟡 Medium | [Link](https://leetcode.com/problems/count-salary-categories/) | [Solution](<MEDIUM/1907 Count Salary Categories.py>) |
 | 2623 | Memoize | 🟡 Medium | [Link](https://leetcode.com/problems/memoize/) | [Solution](<MEDIUM/2623 Memoize.py>) |
