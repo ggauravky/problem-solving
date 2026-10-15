@@ -16,10 +16,10 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | Category | Unique Problems | Solution Files | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | 120 | 121 | Active |
-| 🟡 Medium | 31 | 31 | Active |
+| 🟡 Medium | 32 | 32 | Active |
 | 🔴 Hard | 0 | 0 | In Progress ([Details](HARD/000why.md)) |
 | 🏁 Weekly Contest | 4 | 4 | Active |
-| **Total** | **155** | **156** | — |
+| **Total** | **156** | **157** | — |
 
 > **Note on Solved Totals:** Unique problems reflect distinct LeetCode challenges solved. Problem #128 (*Longest Consecutive Sequence*) is officially classified as Medium; an alternative solution is preserved in `EASY/`, resulting in 153 solution files across 152 distinct problems.
 <!-- END_LEETCODE_PROGRESS -->
@@ -160,7 +160,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 
 </details>
 
-### 🟡 Medium Problems (31)
+### 🟡 Medium Problems (32)
 
 <details open>
 <summary><b>Click to expand / collapse Medium Problems table</b></summary>
@@ -173,6 +173,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | 11 | Container With Most Water | 🟡 Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Solution](<MEDIUM/0011 Container With Most Water.py>) |
 | 17 | Letter Combinations of a Phone Number | 🟡 Medium | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution](<MEDIUM/0017 Letter Combinations of a Phone Number.py>) |
 | 19 | Remove Nth Node From End of List | 🟡 Medium | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](<MEDIUM/0019 Remove Nth Node From End of List.py>) |
+| 33 | Search in Rotated Sorted Array | 🟡 Medium | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](<MEDIUM/0033 Search in Rotated Sorted Array.py>) |
 | 38 | Count and Say | 🟡 Medium | [Link](https://leetcode.com/problems/count-and-say/) | [Solution](<MEDIUM/0038 Count and Say.py>) |
 | 39 | Combination Sum | 🟡 Medium | [Link](https://leetcode.com/problems/combination-sum/) | [Solution](<MEDIUM/0039 Combination Sum.py>) |
 | 43 | Multiply Strings | 🟡 Medium | [Link](https://leetcode.com/problems/multiply-strings/) | [Solution](<MEDIUM/0043 Multiply Strings.py>) |
