@@ -15,8 +15,8 @@ A structured archive of CodeChef competitive programming and practice solutions,
 <!-- START_CODECHEF_PROGRESS -->
 | Metric | Count |
 | :--- | :---: |
-| 🎯 **Total CodeChef Problems Documented** | **7** |
-| 📊 **0000–0999 Range Solutions** | **7** |
+| 🎯 **Total CodeChef Problems Documented** | **8** |
+| 📊 **0000–0999 Range Solutions** | **8** |
 | 🏁 **Contest Solutions** | **0** (Planned) |
 <!-- END_CODECHEF_PROGRESS -->
 
@@ -29,7 +29,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 <!-- START_CODECHEF_OVERVIEW -->
 | Difficulty Range | Problems | Status | Solutions |
 | :--- | :---: | :---: | :--- |
-| **0000–0999** | 7 | Populated | [Browse](0000-0999/) |
+| **0000–0999** | 8 | Populated | [Browse](0000-0999/) |
 | **1000–1399** | 0 | Planned | — |
 | **1400–1599** | 0 | Planned | — |
 | **1600+ (Higher Ranges)** | 0 | Planned | — |
@@ -49,6 +49,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 | 5 | DOLL | — | 0000–0999 | — | [Solution](<0000-0999/005 DOLL.py>) |
 | 6 | COMPRESSVD | — | 0000–0999 | — | [Solution](<0000-0999/006 COMPRESSVD.py>) |
 | 7 | RATINGINPRAC | — | 0000–0999 | — | [Solution](<0000-0999/007 RATINGINPRAC.py>) |
+| 8 | SQUIDRULE | — | 0000–0999 | — | [Solution](<0000-0999/008 SQUIDRULE.py>) |
 <!-- END_CODECHEF_TABLE -->
 
 ---
