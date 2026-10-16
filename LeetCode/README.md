@@ -16,10 +16,10 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | Category | Unique Problems | Solution Files | Status |
 | :--- | :---: | :---: | :---: |
 | 🟢 Easy | 120 | 121 | Active |
-| 🟡 Medium | 32 | 32 | Active |
+| 🟡 Medium | 33 | 33 | Active |
 | 🔴 Hard | 0 | 0 | In Progress ([Details](HARD/000why.md)) |
 | 🏁 Weekly Contest | 4 | 4 | Active |
-| **Total** | **156** | **157** | — |
+| **Total** | **157** | **158** | — |
 
 > **Note on Solved Totals:** Unique problems reflect distinct LeetCode challenges solved. Problem #128 (*Longest Consecutive Sequence*) is officially classified as Medium; an alternative solution is preserved in `EASY/`, resulting in 153 solution files across 152 distinct problems.
 <!-- END_LEETCODE_PROGRESS -->
@@ -160,7 +160,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 
 </details>
 
-### 🟡 Medium Problems (32)
+### 🟡 Medium Problems (33)
 
 <details open>
 <summary><b>Click to expand / collapse Medium Problems table</b></summary>
@@ -199,6 +199,7 @@ A categorized archive of Python solutions for LeetCode algorithmic problems and 
 | 852 | Peak Index in a Mountain Array | 🟡 Medium | [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](<MEDIUM/0852 Peak Index in a Mountain Array.py>) |
 | 1781 | Sum of Beauty of All Substrings | 🟡 Medium | [Link](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Solution](<MEDIUM/1781 Sum of Beauty of All Substrings.py>) |
 | 1907 | Count Salary Categories | 🟡 Medium | [Link](https://leetcode.com/problems/count-salary-categories/) | [Solution](<MEDIUM/1907 Count Salary Categories.py>) |
+| 2226 | Maximum Candies Allocated to K Children | 🟡 Medium | [Link](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [Solution](<MEDIUM/2226 Maximum Candies Allocated to K Children.py>) |
 | 2623 | Memoize | 🟡 Medium | [Link](https://leetcode.com/problems/memoize/) | [Solution](<MEDIUM/2623 Memoize.py>) |
 
 </details>
