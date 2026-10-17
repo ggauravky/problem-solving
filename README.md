@@ -14,10 +14,10 @@ A structured collection of coding solutions from LeetCode and CodeChef, document
 <!-- START_OVERALL_STATS -->
 | Metric | Total Count |
 | :--- | :---: |
-| 🎯 **Total Unique Problems Documented** | **166** |
+| 🎯 **Total Unique Problems Documented** | **167** |
 | 💻 **LeetCode Unique Problems** | **157** |
-| 👨‍🍳 **CodeChef Unique Problems** | **9** |
-| 📂 **Total Solution Files Tracked** | **167** |
+| 👨‍🍳 **CodeChef Unique Problems** | **10** |
+| 📂 **Total Solution Files Tracked** | **168** |
 <!-- END_OVERALL_STATS -->
 
 > *Statistics reflect unique problems solved and tracked within this repository. Duplicate solutions (such as alternative approaches to the same problem) are preserved as distinct files but deduplicated in unique problem counts.*
@@ -30,8 +30,8 @@ A structured collection of coding solutions from LeetCode and CodeChef, document
 | Platform | Problems | Organization | Explore |
 | :--- | :--- | :--- | :--- |
 | **LeetCode** | 157 unique (158 solutions) | Easy / Medium / Hard / Contests | [View Solutions](LeetCode/README.md) |
-| **CodeChef** | 9 unique (9 solutions) | Difficulty Rating / Contests | [View Solutions](CodeChef/README.md) |
-| **Total** | **166 unique** (167 solutions) | — | — |
+| **CodeChef** | 10 unique (10 solutions) | Difficulty Rating / Contests | [View Solutions](CodeChef/README.md) |
+| **Total** | **167 unique** (168 solutions) | — | — |
 <!-- END_PLATFORM_OVERVIEW -->
 
 ---

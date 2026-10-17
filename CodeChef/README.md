@@ -15,8 +15,9 @@ A structured archive of CodeChef competitive programming and practice solutions,
 <!-- START_CODECHEF_PROGRESS -->
 | Metric | Count |
 | :--- | :---: |
-| 🎯 **Total CodeChef Problems Documented** | **9** |
+| 🎯 **Total CodeChef Problems Documented** | **10** |
 | 📊 **0000–0999 Range Solutions** | **9** |
+| 📊 **1000–1999 Range Solutions** | **1** |
 | 🏁 **Contest Solutions** | **0** (Planned) |
 <!-- END_CODECHEF_PROGRESS -->
 
@@ -51,6 +52,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 | 7 | RATINGINPRAC | — | 0000–0999 | — | [Solution](<0000-0999/007 RATINGINPRAC.py>) |
 | 8 | SQUIDRULE | — | 0000–0999 | — | [Solution](<0000-0999/008 SQUIDRULE.py>) |
 | 9 | MAXCONSECU | — | 0000–0999 | — | [Solution](<0000-0999/009 MAXCONSECU.py>) |
+| 10 | CS2023_STK | — | 1000–1999 | — | [Solution](<1000-1999/010 CS2023_STK.py>) |
 <!-- END_CODECHEF_TABLE -->
 
 ---
