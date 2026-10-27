@@ -15,8 +15,8 @@ A structured archive of CodeChef competitive programming and practice solutions,
 <!-- START_CODECHEF_PROGRESS -->
 | Metric | Count |
 | :--- | :---: |
-| 🎯 **Total CodeChef Problems Documented** | **11** |
-| 📊 **0000–0999 Range Solutions** | **10** |
+| 🎯 **Total CodeChef Problems Documented** | **12** |
+| 📊 **0000–0999 Range Solutions** | **11** |
 | 📊 **1000–1999 Range Solutions** | **1** |
 | 🏁 **Contest Solutions** | **0** (Planned) |
 <!-- END_CODECHEF_PROGRESS -->
@@ -30,7 +30,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 <!-- START_CODECHEF_OVERVIEW -->
 | Difficulty Range | Problems | Status | Solutions |
 | :--- | :---: | :---: | :--- |
-| **0000–0999** | 10 | Populated | [Browse](0000-0999/) |
+| **0000–0999** | 11 | Populated | [Browse](0000-0999/) |
 | **1000–1399** | 0 | Planned | — |
 | **1400–1599** | 0 | Planned | — |
 | **1600+ (Higher Ranges)** | 0 | Planned | — |
@@ -54,6 +54,7 @@ Problems are grouped by official CodeChef rating ranges. Folders are created as 
 | 9 | MAXCONSECU | — | 0000–0999 | — | [Solution](<0000-0999/009 MAXCONSECU.py>) |
 | 10 | CS2023_STK | — | 1000–1999 | — | [Solution](<1000-1999/010 CS2023_STK.py>) |
 | 11 | AVGPROBLEM | — | 0000–0999 | — | [Solution](<0000-0999/011 AVGPROBLEM.py>) |
+| 12 | SUBSCRIBE_ | — | 0000–0999 | — | [Solution](<0000-0999/012 SUBSCRIBE_.py>) |
 <!-- END_CODECHEF_TABLE -->
 
 ---
