@@ -42,3 +42,12 @@ k %= len(nums)
 for _ in range(k):
     last = nums.pop()      # remove last
     nums.insert(0, last)   # insert at front
+    
+    
+# another approach
+# reverse the entire array
+nums.reverse()
+# reverse the first k elements
+nums[:k] = reversed(nums[:k])
+# reverse the rest
+nums[k:] = reversed(nums[k:])

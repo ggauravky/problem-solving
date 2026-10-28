@@ -89,4 +89,3 @@ for _ in range(t):
             count += 1
 
     print(count)
-
