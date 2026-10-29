@@ -75,3 +75,13 @@ import pandas as pd
 def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:
     second_highest = employee['salary'].drop_duplicates().nlargest(2).iloc[-1] if employee['salary'].nunique() >= 2 else None
     return pd.DataFrame({'SecondHighestSalary': [second_highest]})
+
+
+# another approach
+
+# Use a set to get unique salaries, then sort them in descending order and pick the second one.
+def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:
+    unique_salaries = list(set(employee['salary']))
+    unique_salaries.sort(reverse=True)
+    second_highest = unique_salaries[1] if len(unique_salaries) >= 2 else None
+    return pd.DataFrame({'SecondHighestSalary': [second_highest]})
